@@ -1,0 +1,247 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.section1{
+    height: 400px;
+    
+    padding: 14px 100px;
+}
+
+.section2{
+    height: 3px;
+    padding: 204px 100px;
+}
+
+.section3{
+    height: 100px;
+    width: 40%;
+    padding: 14px 100px;
+}
+
+.section4{
+    height: 80px;
+    padding: 80px 100px;
+}
+
+.section5{
+    height: 40px;
+    padding-right: 100px 14px;
+}
+
+.section6{
+    height: 100px;
+
+    padding: 300px 100px;
+}
+
+
+.unav{
+    list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: white;
+}
+
+.linav{
+    float: right;
+}
+
+.anav{
+    display: block;
+  color: gray;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+}
+
+.anav2{
+    display: block;
+  color: blue;
+  text-align: center;
+  padding: 14px 100px;
+  text-decoration: none;
+}
+
+.anav3{
+    display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+  background-color: blue;
+}
+
+.linav2{
+    float: left;
+    font-weight: bolder;
+    font-size: x-large;
+}
+
+.txt{
+    font-size: 80px;
+    text-align: left;
+    color: black;
+    font-weight: bold;
+}
+
+.txt2{
+    text-align: left;
+    color: gray;
+}
+
+.txt3{
+    font-size: 35px;
+    text-align: right;
+    color: blue;
+    font-weight: bold;
+}
+
+.p1{
+    font-weight: bold;
+}
+.p2{
+    font-weight: bold;
+    font-size: large;
+}
+
+.p3{
+    text-align: right;  
+}
+
+.td{
+  display: block;
+  padding-left: 200px;
+}
+
+.imag{
+    float: right;
+    padding-left: 100px;
+    height: 600px;
+    width: 400px;
+}
+
+.imag2{
+    float: left;
+    padding-left: 100px;
+    height: 400px;
+    width: 500px;
+}
+
+.imag3{
+    float: right;
+    padding-left: 100px;
+    height: 400px;
+    width: 400px;
+}
+
+.tab{
+    border-collapse: separate;
+    border-spacing: 60px 5px;
+}
+
+.tab2{
+    opacity: 0.3;
+}
+
+.tab3{
+    border-collapse: separate;
+    border-spacing: 100px 3px;
+}
+
+.tab4{
+    padding: 45px 80px;
+    border-collapse: separate;
+    border-spacing: 80px 10px;
+}
+
+.tab5{
+    padding: 20px 80px;
+    border-collapse: separate;
+    border-spacing: 80px 10px;
+}
+
+.bot{
+    background-color: blue;
+    width: 80px;
+    font-size: 10px;
+    padding: 10px;
+    top: 200px;
+    right: 800px;
+}
+
+.bot2{
+    background-color: blue;
+    border-color: blue;
+    width: 80px;
+    font-size: 10px;
+    font-weight: bold;
+    padding: 10px;
+    color: white;
+}
+
+select{
+  border: 1px solid white;
+  width: 140px;
+  overflow: hidden;
+}
+
+.des{
+    font-weight: bold;
+    text-align: right;
+    padding: 0px 270px;
+}
+
+.des1{
+    font-weight: bold;
+    text-align: right;
+    padding: 0px 375px;
+}
+
+.des2{
+    font-weight: bold;
+    text-align: right;
+    padding: 0px 350px;
+}
+
+.des3{
+    font-weight: bold;
+    text-align: right;
+    padding: 0px 345px;
+}
+
+.ppag{
+  height: 100px;
+  padding: 130px 100px;
+}
+
+.unav2{
+    list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: white;
+}
+.anav4{
+  color: gray;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+  font-size: small;
+}
+
+.linav4{
+    float: left;
+    font-size: small;
+    padding: 0px 75px;
+}
+
+.p4{
+    text-align: right;
+}
+
+.p5{
+    color: gray;
+    padding: 0px 210px;
+    font-size: small;
+}
